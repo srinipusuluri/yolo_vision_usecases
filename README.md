@@ -4,6 +4,11 @@ Welcome to the most comprehensive YOLO-powered vision analytics suite! 🚀 This
 
 **Transform images into insights with AI-driven precision!**
 
+Example:
+
+<img width="942" height="746" alt="image" src="https://github.com/user-attachments/assets/543f430c-734c-4efa-95a0-5b7d28477498" />
+
+
 ## 🤖 Smart Analysis Report: YOLO's Vision Revolution Across Core Areas
 
 Experience the dawn of revolutionary computer vision! This platform harnesses YOLO's groundbreaking architecture - "You Only Look Once" - enabling single-pass object detection at unprecedented speeds. Our comprehensive analysis reveals how YOLO transforms raw pixels into actionable intelligence across five fundamental computer vision pillars:
