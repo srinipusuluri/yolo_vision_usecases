@@ -6,6 +6,9 @@ Welcome to the most comprehensive YOLO-powered vision analytics suite! 🚀 This
 
 Example:
 
+<img width="1126" height="730" alt="image" src="https://github.com/user-attachments/assets/d6d32750-76af-4267-a683-3eb4b5683844" />
+
+
 <img width="942" height="746" alt="image" src="https://github.com/user-attachments/assets/543f430c-734c-4efa-95a0-5b7d28477498" />
 
 
